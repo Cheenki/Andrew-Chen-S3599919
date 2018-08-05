@@ -1,15 +1,41 @@
-# Personal Information
-Name: Andrew Chen
+# Personal Information (About Me)
+**Name:** Andrew Chen
 
-Student Number: S3599919
+**Student Number:** S3599919
 
-Email Address: S3599919@student.rmit.edu.au
+**Email Address:** S3599919@student.rmit.edu.au
 
-Basic Background Information: I was born and raised in Australia, specifically in Carlton. My nationality is Chinese and I can speak both Cantonese and Mandarin. 
+**Basic Background Information:** I was born and raised in Australia, specifically in Carlton. My nationality is Chinese and I can speak both Cantonese and Mandarin. 
 
-One Fact About Me: I really love learning about computers and specifically on how to assemble and troubleshoot, my hobbies also include gaming on the PC and playing basketball with my friends. 
+**Hobbies/Facts About Me:** I really love learning about computers and specifically on how to assemble and troubleshoot, my hobbies also include gaming on the PC and playing basketball with my friends. 
 
-## Markdown
+# Interest in IT 
+**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?Outline your IT experience (if any).**
+
+**● Why did you choose to come to RMIT?**
+
+**● What do you expect to learn during your studies?** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
