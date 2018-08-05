@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Cheenki/S3599919/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Information
+Name: Andrew Chen
+Student Number: S3599919
+Email Address: S3599919@student.rmit.edu.au
+Basic Background Information: I was born and raised in Australia, specifically in Carlton. My nationality is Chinese and I can speak both Cantonese and Mandarin. 
+One Fact About Me: I really love learning about computers and specifically on how to assemble and troubleshoot, I am also a gamer that enjoys playing on the regular. 
 
 ### Markdown
 
