@@ -30,6 +30,17 @@ A screenshot of the application is avaliable below:
 
 ![job application link](https://user-images.githubusercontent.com/42104341/43683380-8bd9dfc4-98cd-11e8-8c10-ccdddd4f675f.PNG)
 
+Being an IT Technical Support Offer means being someone who is able to help client/customers in need of help in regards to their IT related enquiries whilst maintaing the highest level of profresionalism and advice giving when on the job. This position appeals to me because I have always wanted to use my knowledge gained in the IT field to put it to good use for the community and other business' that may need some assistance. Hopefully as I climb up to the top in this sector I will be able to gain much more experience and knowledge to be able to one day become a leader of my own company in IT Technical Support. 
+
+Some skills, qualifications and experiences needed for this job include; relevant tertiary qualification and roughly 12 months experience in a similar role.  Being able to use the basic Microsoft programs, and having knowledge of networks (LAN/WAN), and having a motivation to strive for success will be required for the position. Being able to uitilise some of the key technologies such as; Windows 10, Microsoft Office 365 - All programs within that too. Citrix, Skyping for Business and Audio and Visual (conferencing) calls are all supported for this position. Most importantly having a can-do attitude and having superior oral and written abilities are a bonus. 
+
+Skills that I currently do have would be my basic knowledge on how to utilise computers and troubleshooting them, also being able to multitask and work fast and effectively whilst doing everything by the book is also an ability that I have. I can make recommendations on upgrades and replacements if ever need be, just like how I do normally with my side job, I have basic knowledge in networking aswell, and can talk and speak more than one language. I am able to prioritise my work load and management my time wisely. 
+
+A plan that I would undertake to be able to get to the level of experience needed to join this position would be to; learn more and expand my knowledge in all the fields mentioned in the report so that I become up to date, a program that I am not familiar with is Citrix, which is presumeably an American multinational software company that provides server, application and desktop virtualization, networking, software as a service, and cloud computing technologies. A way I can achieve learning about Citrix would be to undertake short courses at a TAFE to further supplement my education qualifications with current industry certifications. This will be applied for all other obtainable skills and qualifications as the I.T Industry is fast-changing technology that changes every single day at a rapid pace. I.T Certification courses are offered online aswell, therefore I can make the most out of learning and upgrading my qualifications so that I am certified and able to do my job properly without any problems or hassles.  
+
+
+
+
 
 
 
