@@ -46,6 +46,10 @@ A plan that I would undertake to be able to get to the level of experience neede
 
 ### Online Learning Style Test 
 
+http://www.whatismylearningstyle.com/learning-style-test-1.html
+
+
+
 ### Big Five Personality Test (Further Online Test) 
 
 
