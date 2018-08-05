@@ -26,7 +26,9 @@ Some things that I would expect to learn during my studies would be definitely h
 
 My Ideal Job is to become an IT Technical Support Officer: The link is https://www.seek.com.au/job/36860625?type=standout
 
-A screenshot is avaliable of it below:  
+A screenshot of the application is avaliable below:  
+
+![job application link](https://user-images.githubusercontent.com/42104341/43683380-8bd9dfc4-98cd-11e8-8c10-ccdddd4f675f.PNG)
 
 
 
