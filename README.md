@@ -48,9 +48,11 @@ A plan that I would undertake to be able to get to the level of experience neede
 
 http://www.whatismylearningstyle.com/learning-style-test-1.html
 
-
+![learning style test](https://user-images.githubusercontent.com/42104341/43684269-73b94dc2-98e0-11e8-9f84-f09375f38bed.PNG)
 
 ### Big Five Personality Test (Further Online Test) 
+
+https://openpsychometrics.org/tests/IPIP-BFFM/
 
 
 
