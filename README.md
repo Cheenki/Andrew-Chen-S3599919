@@ -9,6 +9,8 @@
 
 **Hobbies/Facts About Me:** I really love learning about computers and specifically on how to assemble and troubleshoot, my hobbies also include gaming on the PC and playing basketball with my friends. 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 # Interest in IT 
 **● What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?Outline your IT experience (if any).**
 
@@ -21,6 +23,8 @@ The reason as to why I had chosen RMIT in the first place was because it was the
 **● What do you expect to learn during your studies?** 
 
 Some things that I would expect to learn during my studies would be definitely how to configure hardware and how to implement coding onto a website, hands-on approach to studies is one thing that I enjoy doing the most as it lets me physically work with something that I love using, computers. Not only are these the only things that I'm looking forward to but there are some others such as the fundamentals of IT systems and introductory levels to programming, hopefully as I progress I can learn about other in depth information that would enable me to become an IT specialist. In the end, I hope to be able to figure out what hardware and software would be suited to the situation that I may be stuck in and to be able to correctly support and troubleshoot any problems that may occur. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # Ideal Job 
 
@@ -37,6 +41,8 @@ Some skills, qualifications and experiences needed for this job include; relevan
 Skills that I currently do have would be my basic knowledge on how to utilise computers and troubleshooting them, also being able to multitask and work fast and effectively whilst doing everything by the book is also an ability that I have. I can make recommendations on upgrades and replacements if ever need be, just like how I do normally with my side job, I have basic knowledge in networking aswell, and can talk and speak more than one language. I am able to prioritise my work load and management my time wisely. 
 
 A plan that I would undertake to be able to get to the level of experience needed to join this position would be to; learn more and expand my knowledge in all the fields mentioned in the job application so that I become up to date with the now. A program that I am not familiar with is Citrix, which is presumeably an American multinational software company that provides server, application and desktop virtualization, networking, software as a service, and cloud computing technologies. A way I can achieve learning about Citrix would be to undertake short courses at a TAFE to further supplement my education qualifications with current industry certifications. This will be applied for all other obtainable skills and qualifications as the I.T Industry is fast-changing technology that changes every single day at a rapid pace. I.T Certification courses are offered online aswell, therefore I can make the most out of learning and upgrading my qualifications so that I am certified and able to do my job properly without any problems or hassles.  
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # Personal Profile 
 ### Myers-Briggs Test 
@@ -58,6 +64,8 @@ https://openpsychometrics.org/tests/IPIP-BFFM/
 
 ![big 5 personality test](https://user-images.githubusercontent.com/42104341/43684394-91b94a78-98e2-11e8-9145-decef6da7af3.PNG)
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Results from the online tests 
 
 Firstly, starting off with the Myer-Briggs Test, the results that were acquired from that test stated that I had what they call a "Consul" Personality which meant that I was known for my reliability and kindess, and are able to create and maintain a secure and stable environment for myself and my loved ones. In short my Strengths and Weakness' are included below: 
@@ -78,14 +86,21 @@ To conclude, the results acquired from all the tests conducted have read me as a
 
 ### How these results may influence my behaviour in a team
 
+The results shown are leaning more towards a more positive side when talking about my behaviour in a team, I'm good at connecting with my peers and I have a very strong sense of duty, and strong practical skills aswell. Generally these results impact my behaviour in a way that shows that I have clear tendencies that show through regardless of what position I am in, being a hard worker and efficient at the same time that also respects the authority of my managers and peers. 
+
 ### How do I take this information into account when forming a team 
 
-# Markdown
+ Some things that may influence the way that I work in a team would be being too vulnerable to criticism on my ideas that I may bring up, although this may be a weakness, it can definitely be something that I can build upon slowly. Information given from the tests can allow me to change my weaknesses slowly and learn to view things in a different perspective, with whatever it may be. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Project Ideas 
+
+
+
+
+
+
+
 
 # Header 1
 ## Header 2
@@ -102,12 +117,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cheenki/S3599919/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
