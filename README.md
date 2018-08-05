@@ -54,18 +54,29 @@ http://www.whatismylearningstyle.com/learning-style-test-1.html
 
 https://openpsychometrics.org/tests/IPIP-BFFM/
 
+![big 5 personality test](https://user-images.githubusercontent.com/42104341/43684394-91b94a78-98e2-11e8-9145-decef6da7af3.PNG)
 
+### Results from the online tests 
 
+Firstly, starting off with the Myer-Briggs Test, the results that were acquired from that test stated that I had what they call a "Consul" Personality which meant that I was known for my reliability and kindess, and are able to create and maintain a secure and stable environment for myself and my loved ones. In short my Strengths and Weakness' are included below: 
 
+**Strengths** 
 
+- Strong Practical Skills, Strong Sense of Duty, Very Loyal, Sensitive and Warm, Good at Connecting with Others. 
 
+**Weaknesses** 
 
+- Worried about their social status, Inflexible, Reluctant to Innovative or Improvise, Vulnerable to Criticism, Often Too Needy and Too Selfless. 
 
+Secondly, the learning style test has unrevealed that I am a Visual Learner and that I supposedly remmeber 75% of what I read or see, diagrams, graphs and charts are all valuable tools for a visual learner like myself. The test taken had represented quite accurately about what kind of learner I am, because I am infact a visual learner and I remmember what I read and write in my books, and thoroughly enjoy visual projects and presentations especially if it's about something I enjoy doing or wanting to learn about. 
 
+Thirdly, the IPIP Big Five Factor results have shown that I was an Extrovert, which meant that I was outgoing and social. I was close to 100% Emotional Stability meaning that I am functioning almost perfectly without any interruptions to my work ability due to my mental health state. I am agreeable towards many things as I am friendly and very optimistic, I am also conscientious with whatever I do and diligent, and last but not least I am open to new experiences. 
 
+To conclude, the results acquired from all the tests conducted have read me as a person quite accurately, and it allows me to look at myself as an individual in another perspective or even from a hire managers perspective which can enable me to think of the things I could try to change in order to become the best possible candidate for the specific job that I am searching for. 
 
+### How these results may influence my behaviour in a team
 
-
+### How do I take this information into account when forming a team 
 
 # Markdown
 
