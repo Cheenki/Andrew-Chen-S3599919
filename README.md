@@ -10,7 +10,9 @@
 **Hobbies/Facts About Me:** I really love learning about computers and specifically on how to assemble and troubleshoot, my hobbies also include gaming on the PC and playing basketball with my friends. 
 
 # Interest in IT 
-**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?Outline your IT experience (if any).**
+**● What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest?Outline your IT experience (if any).**
+My interest in IT began when I was quite young I had always been facinated with the progression of technology and how quickly it had advanced throughout the years that I had grown. I first bought a computer when i was in Grade 6 when social media was still booming for our current demographic, I would use it daily to browse the web and to socialise with my friends from school. It wasn't until I went to high school and had a class called "Information Technology" that had kickstarted my hobbie of building computers and learning more about them. Ever since my love for computers have sparked and I have been regularly keeping up to date with the latest in technology and building computers on the side as a hobby for friends and people who are having trouble deciding what parts they need in order to build a computer specifically made for what they are intending to do. 
+
 
 **● Why did you choose to come to RMIT?**
 
