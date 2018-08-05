@@ -38,10 +38,15 @@ Skills that I currently do have would be my basic knowledge on how to utilise co
 
 A plan that I would undertake to be able to get to the level of experience needed to join this position would be to; learn more and expand my knowledge in all the fields mentioned in the job application so that I become up to date with the now. A program that I am not familiar with is Citrix, which is presumeably an American multinational software company that provides server, application and desktop virtualization, networking, software as a service, and cloud computing technologies. A way I can achieve learning about Citrix would be to undertake short courses at a TAFE to further supplement my education qualifications with current industry certifications. This will be applied for all other obtainable skills and qualifications as the I.T Industry is fast-changing technology that changes every single day at a rapid pace. I.T Certification courses are offered online aswell, therefore I can make the most out of learning and upgrading my qualifications so that I am certified and able to do my job properly without any problems or hassles.  
 
+# Personal Profile 
+### Myers-Briggs Test 
+
+![myers-briggs test](https://user-images.githubusercontent.com/42104341/43684156-443519d4-98de-11e8-9705-2e660c519c30.PNG)
 
 
+### Online Learning Style Test 
 
-
+### Big Five Personality Test (Further Online Test) 
 
 
 
