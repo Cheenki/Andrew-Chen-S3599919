@@ -22,8 +22,11 @@ The reason as to why I had chosen RMIT in the first place was because it was the
 
 Some things that I would expect to learn during my studies would be definitely how to configure hardware and how to implement coding onto a website, hands-on approach to studies is one thing that I enjoy doing the most as it lets me physically work with something that I love using, computers. Not only are these the only things that I'm looking forward to but there are some others such as the fundamentals of IT systems and introductory levels to programming, hopefully as I progress I can learn about other in depth information that would enable me to become an IT specialist. In the end, I hope to be able to figure out what hardware and software would be suited to the situation that I may be stuck in and to be able to correctly support and troubleshoot any problems that may occur. 
 
+# Ideal Job 
 
+My Ideal Job is to become an IT Technical Support Officer: The link is https://www.seek.com.au/job/36860625?type=standout
 
+A screenshot is avaliable of it below:  
 
 
 
