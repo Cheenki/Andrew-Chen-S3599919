@@ -94,8 +94,3 @@ The results shown are leaning more towards a more positive side when talking abo
 ### How do I take this information into account when forming a team 
 
  Some things that may influence the way that I work in a team would be being too vulnerable to criticism on my ideas that I may bring up, although this may be a weakness, it can definitely be something that I can build upon slowly. Information given from the tests can allow me to change my weaknesses slowly and learn to view things in a different perspective, with whatever it may be. 
-
-
-# Project Ideas 
-
-
