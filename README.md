@@ -1,6 +1,6 @@
 # Personal Information (About Me)
 
-
+![photo of me](https://user-images.githubusercontent.com/42104341/43755833-4c097d44-9a55-11e8-9b84-e4a318156853.jpg)
 
 **Name:** Andrew Chen
 
