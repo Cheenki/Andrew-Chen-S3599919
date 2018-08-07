@@ -1,4 +1,7 @@
 # Personal Information (About Me)
+
+
+
 **Name:** Andrew Chen
 
 **Student Number:** S3599919
@@ -96,27 +99,3 @@ The results shown are leaning more towards a more positive side when talking abo
 # Project Ideas 
 
 
-
-
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cheenki/S3599919/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
